@@ -1,0 +1,1 @@
+The library requires software to manage inventory, your mission is  create an app for see the books and details per book
