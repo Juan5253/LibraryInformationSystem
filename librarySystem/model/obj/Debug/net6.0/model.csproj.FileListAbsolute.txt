@@ -1,0 +1,12 @@
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\model\obj\Debug\net6.0\model.csproj.AssemblyReference.cache
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\model\obj\Debug\net6.0\model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\model\obj\Debug\net6.0\model.AssemblyInfoInputs.cache
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\model\obj\Debug\net6.0\model.AssemblyInfo.cs
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\model\obj\Debug\net6.0\model.csproj.CoreCompileInputs.cache
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\model\bin\Debug\net6.0\model.deps.json
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\model\bin\Debug\net6.0\model.dll
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\model\bin\Debug\net6.0\model.pdb
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\model\obj\Debug\net6.0\model.dll
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\model\obj\Debug\net6.0\refint\model.dll
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\model\obj\Debug\net6.0\model.pdb
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\model\obj\Debug\net6.0\ref\model.dll

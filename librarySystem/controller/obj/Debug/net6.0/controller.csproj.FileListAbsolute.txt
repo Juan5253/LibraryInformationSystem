@@ -1,0 +1,14 @@
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\bin\Debug\net6.0\controller.deps.json
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\bin\Debug\net6.0\controller.runtimeconfig.json
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\bin\Debug\net6.0\controller.dll
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\bin\Debug\net6.0\controller.pdb
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\obj\Debug\net6.0\controller.csproj.AssemblyReference.cache
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\obj\Debug\net6.0\controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\obj\Debug\net6.0\controller.AssemblyInfoInputs.cache
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\obj\Debug\net6.0\controller.AssemblyInfo.cs
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\obj\Debug\net6.0\controller.csproj.CoreCompileInputs.cache
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\obj\Debug\net6.0\controller.dll
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\obj\Debug\net6.0\refint\controller.dll
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\obj\Debug\net6.0\controller.pdb
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\obj\Debug\net6.0\controller.genruntimeconfig.cache
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\obj\Debug\net6.0\ref\controller.dll
