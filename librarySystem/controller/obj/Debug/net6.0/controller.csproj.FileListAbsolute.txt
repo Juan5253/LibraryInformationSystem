@@ -12,3 +12,6 @@ C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\obj\Deb
 C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\obj\Debug\net6.0\controller.pdb
 C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\obj\Debug\net6.0\controller.genruntimeconfig.cache
 C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\obj\Debug\net6.0\ref\controller.dll
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\bin\Debug\net6.0\model.dll
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\bin\Debug\net6.0\model.pdb
+C:\Users\Juan_\desktop\LibraryInformationSystem\librarySystem\controller\obj\Debug\net6.0\controller.csproj.CopyComplete

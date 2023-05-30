@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using model.classes;
 
 namespace controller.AppRepositories
 {
@@ -14,14 +16,13 @@ namespace controller.AppRepositories
         public DbSet<AuthorBook> AuthorsBooks { get; set; }
 
         //Method that creates the database
-        protected override void OnConfiguring( DbContextOptionBuilder optionBuilder)
+        protected override void OnConfiguring( DbContextOptionsBuilder optionBuilder)
         {
             if(!optionBuilder.IsConfigured)
             {
                 //Connection string
-                optionBuilder.UseSqlServer("Data Source=  ;Initial Catalog= ");
+                optionBuilder.UseSqlServer("Data Source=DESKTOP-31E1NSD;Initial Catalog=LibraryInformationSystem;Integrated Security=true;Integrated Security=true;TrustServerCertificate=true;");
             }
-
         }
     }
 }

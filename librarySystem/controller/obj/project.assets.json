@@ -1155,6 +1155,16 @@
             "rid": "win"
           }
         }
+      },
+      "model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/model.dll": {}
+        }
       }
     }
   },
@@ -3500,6 +3510,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "model/1.0.0": {
+      "type": "project",
+      "path": "../model/model.csproj",
+      "msbuildProject": "../model/model.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3507,7 +3522,8 @@
       "Microsoft.EntityFrameworkCore >= 7.0.5",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5",
-      "Microsoft.EntityFrameworkCore.Tools >= 7.0.5"
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.5",
+      "model >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3534,7 +3550,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Juan_\\desktop\\LibraryInformationSystem\\librarySystem\\model\\model.csproj": {
+              "projectPath": "C:\\Users\\Juan_\\desktop\\LibraryInformationSystem\\librarySystem\\model\\model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
